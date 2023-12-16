@@ -40,7 +40,7 @@ Projeto Agencia de viagens -  Desenvolvido para a Segunda entrega da RecodePro.
 ## Quarta Entrega:
 
 <h3>Banco de dados</h3>
-- [x]  Criação / Atualização da base de dados usando o padrão NoSql (MongoDB) ou SQL relacional, atendendo as especificações do projeto, usando o framework Spring Data e as Tecnologias da plataforma e linguagem Java, aplicando ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional). 
+- [x] Criação / Atualização da base de dados usando o padrão NoSql (MongoDB) ou SQL relacional, atendendo as especificações do projeto, usando o framework Spring Data e as Tecnologias da plataforma e linguagem Java, aplicando ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional). 
 
 <h3>Back-end</h3>
 
